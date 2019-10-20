@@ -1,0 +1,7 @@
+**DIJKSTRA**
+chemin= [0, 5]
+resultat= [0, 10, 99, 99, 99, 6]
+chemin= [0, 5, 4]
+resultat= [0, 8, 14, 99, 7, 6]
+chemin= [0, 5, 4]
+resultat= [0, 8, 10, 99, 7, 6]
